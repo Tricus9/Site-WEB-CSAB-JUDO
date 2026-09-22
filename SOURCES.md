@@ -24,3 +24,9 @@ Exact supplied front and rear PNGs replace the procedural mannequin. No edits to
 
 ## Version 4 — actual 3D reconstruction
 Replaced the two-view photo presentation with a real transparent WebGL mannequin reconstructed from the supplied references. Original club PNG maps to the chest; UV windows from the supplied images map clothing marks and the back bib to 3D fabric surfaces. The source studio background is never rendered. This is a reconstruction, not a photogrammetric scan or exact conversion of the photographs. Added section heading reveals, timeline progress, animated dated club statistics, chapter navigation and contact reveal. Original data and logo bytes unchanged.
+
+## Version 6 — supplied 2D scenes
+Replaces all interactive WebGL rendering with the three supplied 1536×864 scenes.
+Original JPEG bytes and existing official logo bytes are unchanged. Responsive
+object-fit framing, crossfades and uniform scale only. No generated replacement
+artwork, no new WebGL dependency, no wheel/touch capture.
